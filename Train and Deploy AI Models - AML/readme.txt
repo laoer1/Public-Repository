@@ -1,4 +1,9 @@
 # ReadMe
+These two files help to train a model based on ML (Linear Regression, XGBoost and MLP).
+This helps create prognose models for evaluation of deviation of sensor measurements (redundancy concept).
+At the end a Trainned Model can be packaged and deployed to the ML Azure Services.
+
+The script is meant to be used as a reference. Dependencies must be installed separately.
 
 Kubernetes-Online-End Point - Goal is to:
 
